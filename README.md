@@ -20,7 +20,7 @@ and "AI that feels like a real product experience."
 
 ## Architecture
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/ArchitectureDiagram.png)
 
 The system connects a Python Flask backend to Google ADK for 
 agent management, two Gemini models for conversation and 
