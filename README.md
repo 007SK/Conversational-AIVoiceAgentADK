@@ -6,7 +6,7 @@ ADK and Gemini, from character design and multi-frame lip-sync
 animation to live deployment. The goal was to ship a voice AI 
 product that feels like a character, not a chatbot.
 
-**Try it live:** [link](https://max-companion-376593873550.us-central1.run.app/)
+**Try it now:** [Public Live Link](https://max-companion-376593873550.us-central1.run.app/)
 
 Max- Multilingual AI Voice Agent 
 
