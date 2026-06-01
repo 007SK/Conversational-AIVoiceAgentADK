@@ -145,4 +145,4 @@ a product problem, not a technical one.
 
 ---
 ## LinkedIn Post
-Checkout my [LinkedIn Post]() to see my next steps to improve this model. Watch the [Live Demo]() here.
+Checkout my [LinkedIn Post](https://www.linkedin.com/posts/007sk_buildinginpublic-aiproduct-productmanagement-ugcPost-7467193314753056771-nECV/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACWq99EBOK4merjE7Me8UTP41JSokBgHiVU) to see my next steps to improve this model. Watch the [Live Demo](https://share.descript.com/view/pUkNTlxDkLd) here.
