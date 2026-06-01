@@ -7,7 +7,12 @@ animation to live deployment. The goal was to ship a voice AI
 product that feels like a character, not a chatbot.
 
 **Try it live:** [link](https://max-companion-376593873550.us-central1.run.app/)
----
+
+Max- Multilingual AI Voice Agent 
+
+
+<img src="images/MaxScreenshot.png" width="500"/>
+
 
 ## What This Is
 
@@ -20,7 +25,7 @@ and "AI that feels like a real product experience."
 
 ## Architecture
 
-![Architecture Diagram](images/ArchitectureDiagram.png)
+<img src="images/ArchitectureDiagram.png" width="500"/>
 
 The system connects a Python Flask backend to Google ADK for 
 agent management, two Gemini models for conversation and 
