@@ -1,0 +1,11 @@
+.gcloudignore
+.git
+.gitignore
+.venv/
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+.agents/
+.antigravitycli/
